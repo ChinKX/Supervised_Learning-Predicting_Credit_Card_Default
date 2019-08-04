@@ -1,0 +1,28 @@
+Importance of balanced dataset:
+https://www.quora.com/How-important-is-it-to-have-a-balanced-dataset-for-deep-learning
+http://amsantac.co/blog/en/2016/09/20/balanced-image-classification-r.html
+https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758
+
+Dense Layer:
+a) units
+https://datascience.stackexchange.com/questions/26392/correct-value-of-output-dim-or-units-parameter-of-dense
+
+Hyperparameter Optimization with Keras:
+https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53
+
+
+Scaler:
+https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+
+
+Training loss higher than testing loss/Training accuracy lower than testing accuracy:
+https://forums.fast.ai/t/validation-loss-lower-than-training-loss/4581/2
+https://forums.fast.ai/t/determining-when-you-are-overfitting-underfitting-or-just-right/7732
+https://stackoverflow.com/questions/43979449/higher-validation-accuracy-than-training-accurracy-using-tensorflow-and-keras
+
+Validation set vs test set:
+https://www.researchgate.net/post/what_is_the_difference_between_validation_set_and_test_set
+https://www.quora.com/How-can-I-explain-the-fact-that-test-accuracy-is-much-higher-than-train-accuracy
+
+Adam:
+https://www.dlology.com/blog/quick-notes-on-how-to-choose-optimizer-in-keras/
